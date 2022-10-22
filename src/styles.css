@@ -43,3 +43,34 @@ p {
 .error {
   margin-top: 100px;
 }
+
+.Lists {
+  font-size: 25px;
+  width: 70%;
+  margin: auto;
+}
+
+.Error {
+  color: red;
+  margin-top: 200px;
+}
+
+.button {
+  background-color: black;
+  color: red;
+  padding: 20px 55px;
+  font-size: 30px;
+  margin-left: 650px;
+  margin-top: 50px;
+}
+
+.page {
+  background-color: #4caf50;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 500px;
+  height: 350px;
+  margin-left: 500px;
+}
