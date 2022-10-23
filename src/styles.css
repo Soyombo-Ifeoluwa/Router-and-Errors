@@ -71,6 +71,53 @@ p {
   border-radius: 10px;
   text-align: center;
   width: 500px;
-  height: 350px;
+  height: 500px;
   margin-left: 500px;
+}
+.navlink1 {
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  background-color: #4caf50;
+  padding: 20px 65px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Home-btn {
+  margin-top: 100px;
+  margin-left: 650px;
+}
+
+button {
+  border-radius: 20px;
+  border: 1px solid #4caf50;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: black;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  color: #4caf50;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  margin-top: 50px;
+}
+
+.pagination {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-top: 100px;
 }
